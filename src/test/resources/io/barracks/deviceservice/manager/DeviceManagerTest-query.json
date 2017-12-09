@@ -1,0 +1,14 @@
+{
+  "or": [
+    {
+      "lte": {
+        "customClientData.speed": 42
+      }
+    },
+    {
+      "eq" : {
+        "customClientData.charging" : true
+      }
+    }
+  ]
+}

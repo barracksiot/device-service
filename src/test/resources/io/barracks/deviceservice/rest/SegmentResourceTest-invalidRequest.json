@@ -1,0 +1,9 @@
+{
+  "userId": "donaldDrumpf",
+  "name": "myGreatSegment",
+  "query": {
+    "eq": {
+      "nopekey": false
+    }
+  }
+}

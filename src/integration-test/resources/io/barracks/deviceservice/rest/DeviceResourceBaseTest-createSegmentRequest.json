@@ -1,0 +1,9 @@
+{
+  "userId": "abc123",
+  "name":"aSingleMatchingSegment",
+  "query": {
+    "in" : {
+      "unitId": []
+    }
+  }
+}

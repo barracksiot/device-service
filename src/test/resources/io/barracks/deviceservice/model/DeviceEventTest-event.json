@@ -1,0 +1,9 @@
+{
+  "id": "someId",
+  "userId": "aUser",
+  "unitId": "aUnitId",
+  "versionId": "aVersionId",
+  "changed": true,
+  "receptionDate": "2001-09-11T14:30:00.666Z",
+  "segmentId": "aSegmentId"
+}
