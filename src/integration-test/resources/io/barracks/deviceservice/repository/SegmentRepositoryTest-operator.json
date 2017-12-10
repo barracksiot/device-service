@@ -1,0 +1,41 @@
+{
+  "userId": "donaldDrumpf",
+  "name": "myGreatSegment",
+  "query": {
+    "or": [
+      {
+        "and": [
+          {
+            "eq": {
+              "versionId": "v0.0.1"
+            }
+          },
+          {
+            "in": {
+              "customClientData.color": [
+                "red",
+                "green",
+                "blue"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "gt": {
+          "customClientData.temp": 17.56
+        }
+      },
+      {
+        "lte": {
+          "customClientData.speed": 42
+        }
+      },
+      {
+        "eq" : {
+          "customClientData.charging" : true
+        }
+      }
+    ]
+  }
+}

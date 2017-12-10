@@ -1,0 +1,12 @@
+{
+  "id": "anId",
+  "userId": "aUserId",
+  "name": "A valid filter name",
+  "created": "2017-04-06T18:17:46.949Z",
+  "updated": "2027-04-06T18:17:46.949Z",
+  "query": {
+    "eq": {
+      "unitId": "abc123"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+== Match
+
+
+=== Find first matching filter for a device request
+
+include::{snippets}/match/first/path-parameters.adoc[]
+include::{snippets}/match/first/request-parameters.adoc[]
+
+==== Request
+
+include::{snippets}/match/first/http-request.adoc[]
+include::{snippets}/match/first/curl-request.adoc[]
+
+==== Response
+
+include::{snippets}/match/first/http-response.adoc[]
+
+
+=== Find all matching filters for a device request
+
+include::{snippets}/match/all/path-parameters.adoc[]
+include::{snippets}/match/all/request-parameters.adoc[]
+
+==== Request
+
+include::{snippets}/match/all/http-request.adoc[]
+include::{snippets}/match/all/curl-request.adoc[]
+
+==== Response
+
+include::{snippets}/match/all/http-response.adoc[]

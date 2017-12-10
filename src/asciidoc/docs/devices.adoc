@@ -1,0 +1,66 @@
+== Devices
+
+=== Get device information
+
+include::{snippets}/devices/get/path-parameters.adoc[]
+
+==== Request
+
+include::{snippets}/devices/get/http-request.adoc[]
+include::{snippets}/devices/get/curl-request.adoc[]
+
+==== Response
+
+include::{snippets}/devices/get/http-response.adoc[]
+
+include::{snippets}/devices/get/response-fields.adoc[]
+
+
+=== List devices information
+
+include::{snippets}/devices/list/path-parameters.adoc[]
+include::{snippets}/devices/list/request-parameters.adoc[]
+
+==== Request
+
+include::{snippets}/devices/list/http-request.adoc[]
+include::{snippets}/devices/list/curl-request.adoc[]
+
+==== Response
+
+include::{snippets}/devices/list/http-response.adoc[]
+
+include::{snippets}/devices/list/response-fields.adoc[]
+
+
+=== Add an event to a device
+
+include::{snippets}/devices/add-event/path-parameters.adoc[]
+
+==== Request
+
+include::{snippets}/devices/add-event/http-request.adoc[]
+include::{snippets}/devices/add-event/curl-request.adoc[]
+
+include::{snippets}/devices/add-event/request-fields.adoc[]
+
+==== Response
+
+include::{snippets}/devices/add-event/http-response.adoc[]
+
+
+=== List events for a device
+
+include::{snippets}/devices/list-events/path-parameters.adoc[]
+include::{snippets}/devices/list-events/request-parameters.adoc[]
+
+==== Request
+
+include::{snippets}/devices/list-events/http-request.adoc[]
+include::{snippets}/devices/list-events/curl-request.adoc[]
+
+==== Response
+
+include::{snippets}/devices/list-events/http-response.adoc[]
+
+include::{snippets}/devices/list-events/response-fields.adoc[]

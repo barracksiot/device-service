@@ -1,0 +1,47 @@
+== Stats
+
+
+=== Amount of devices whose last request happened during a specific period of time
+
+include::{snippets}/stats/last-seen/request-parameters.adoc[]
+
+==== Request
+
+include::{snippets}/stats/last-seen/http-request.adoc[]
+include::{snippets}/stats/last-seen/curl-request.adoc[]
+
+==== Response
+
+include::{snippets}/stats/last-seen/http-response.adoc[]
+
+include::{snippets}/stats/last-seen/response-fields.adoc[]
+
+
+=== Amount of devices for which a request was received during a specific period of time
+
+include::{snippets}/stats/seen/request-parameters.adoc[]
+
+==== Request
+
+include::{snippets}/stats/seen/http-request.adoc[]
+include::{snippets}/stats/seen/curl-request.adoc[]
+
+==== Response
+
+include::{snippets}/stats/seen/http-response.adoc[]
+
+include::{snippets}/stats/seen/response-fields.adoc[]
+
+
+=== Amount of devices for each user
+
+==== Request
+
+include::{snippets}/stats/per-user-id/http-request.adoc[]
+include::{snippets}/stats/per-user-id/curl-request.adoc[]
+
+==== Response
+
+include::{snippets}/stats/per-user-id/http-response.adoc[]
+
+include::{snippets}/stats/per-user-id/response-fields.adoc[]

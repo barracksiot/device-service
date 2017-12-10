@@ -1,0 +1,9 @@
+= Device Service
+
+include::docs/devices.adoc[]
+
+include::docs/filters.adoc[]
+
+include::docs/match.adoc[]
+
+include::docs/stats.adoc[]

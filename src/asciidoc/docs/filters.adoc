@@ -1,0 +1,72 @@
+== Filters
+
+=== Create a filter
+
+include::{snippets}/filters/create/path-parameters.adoc[]
+
+==== Request
+
+include::{snippets}/filters/create/http-request.adoc[]
+include::{snippets}/filters/create/curl-request.adoc[]
+
+include::{snippets}/filters/create/request-fields.adoc[]
+
+==== Response
+
+include::{snippets}/filters/create/http-response.adoc[]
+
+=== Update a filter
+
+include::{snippets}/filters/update/path-parameters.adoc[]
+
+==== Request
+
+include::{snippets}/filters/update/http-request.adoc[]
+include::{snippets}/filters/update/curl-request.adoc[]
+
+include::{snippets}/filters/update/request-fields.adoc[]
+
+==== Response
+
+include::{snippets}/filters/update/http-response.adoc[]
+
+=== Get a filter
+
+include::{snippets}/filters/get/path-parameters.adoc[]
+
+==== Request
+
+include::{snippets}/filters/get/http-request.adoc[]
+include::{snippets}/filters/get/curl-request.adoc[]
+
+==== Response
+
+include::{snippets}/filters/get/http-response.adoc[]
+
+
+=== Delete a filter
+
+include::{snippets}/filters/delete/path-parameters.adoc[]
+
+==== Request
+
+include::{snippets}/filters/delete/http-request.adoc[]
+include::{snippets}/filters/delete/curl-request.adoc[]
+
+==== Response
+
+include::{snippets}/filters/delete/http-response.adoc[]
+
+
+=== List filters
+
+include::{snippets}/filters/list/path-parameters.adoc[]
+
+==== Request
+
+include::{snippets}/filters/list/http-request.adoc[]
+include::{snippets}/filters/list/curl-request.adoc[]
+
+==== Response
+
+include::{snippets}/filters/list/http-response.adoc[]

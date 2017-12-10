@@ -1,0 +1,50 @@
+{
+  "request": {
+    "packages": [
+      {
+        "reference": "io.barracks.firmware",
+        "version": "0.0.1"
+      },
+      {
+        "reference": "io.barracks.oldApplication",
+        "version": "0.0.1"
+      },
+      {
+        "reference": "io.barracks.bootloader",
+        "version": "0.0.1"
+      }
+    ],
+    "customClientData": {
+      "country": "CAN",
+      "battery": {
+        "health": "good",
+        "charging": false,
+        "level": 0.95
+      }
+    }
+  },
+  "response": {
+    "changed": [
+      {
+        "reference": "io.barracks.firmware",
+        "version": "0.0.2"
+      }
+    ],
+    "available": [
+      {
+        "reference": "io.barracks.newApplication",
+        "version": "1.0.0"
+      }
+    ],
+    "unchanged": [
+      {
+        "reference": "io.barracks.bootloader"
+      }
+    ],
+    "unavailable": [
+      {
+        "reference": "io.barracks.oldApplication"
+      }
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "A valid filter name",
+  "query": {
+    "eq": {
+      "unitId": "abc123"
+    }
+  }
+}
